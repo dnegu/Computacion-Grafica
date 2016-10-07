@@ -1,3 +1,7 @@
+/**
+Nombre: David Rolando Neyra Gutierrez
+Comando: g++ line.cpp -w -lGL -lGLU -lglut -o line
+*/
 #include <GL/glut.h>
 #include <GL/gl.h>
 #include <GL/freeglut.h>
@@ -81,7 +85,7 @@ main(int argc,char *argv[])
  glutInitDisplayMode(GLUT_SINGLE);
  glutInitWindowSize(300,300);
  glutInitWindowPosition(100,100);
- glutCreateWindow("draw line");
+ glutCreateWindow("Linea");
  glutDisplayFunc(myline);
  myInit();
  glutMainLoop();
