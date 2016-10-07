@@ -4,6 +4,7 @@ Comandos para correr el archivo
 
 g++ line.cpp -w -lGL -lGLU -lglut -o line
 g++ circle.cpp -w -lGL -lGLU -lglut -o circle
-g++ line.cpp -w -lGL -lGLU -lglut -o line
+g++ ellipse.cpp -w -lGL -lGLU -lglut -o ellipse
+g++ poligono.cpp -w -lGL -lGLU -lglut -o poligono
 
 
