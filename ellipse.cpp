@@ -1,3 +1,7 @@
+/**
+Nombre: David Rolando Neyra Gutierrez
+Comando: g++ ellipse.cpp -w -lGL -lGLU -lglut -o ellipse
+*/
 
 #include<stdio.h>
 #include<GL/gl.h>
