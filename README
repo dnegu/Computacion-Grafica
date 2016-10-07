@@ -1,1 +1,9 @@
 Repositorio para el Trabajo de Computacion grafica
+
+Comandos para correr el archivo
+
+g++ line.cpp -w -lGL -lGLU -lglut -o line
+g++ circle.cpp -w -lGL -lGLU -lglut -o circle
+g++ line.cpp -w -lGL -lGLU -lglut -o line
+
+
