@@ -1,3 +1,8 @@
+/**
+Nombre: David Rolando Neyra Gutierrez
+Comando: g++ circle.cpp -w -lGL -lGLU -lglut -o circle
+*/
+
 #include<stdio.h>
 #include<GL/gl.h>
 #include<GL/glu.h>
