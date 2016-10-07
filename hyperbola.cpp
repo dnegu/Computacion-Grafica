@@ -1,5 +1,6 @@
 /**
 Nombre: David Rolando Neyra Gutierrez
+Comando: g++ hyperbola.cpp -w -lGL -lGLU -lglut -o hyperbola
 */
 
 #include <stdio.h>
