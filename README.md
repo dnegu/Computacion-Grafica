@@ -1,6 +1,8 @@
 Repositorio para el Trabajo de Computacion Grafica
 ==================================================
 
+Nombre: David Rolando Neyra Gutierrez
+
 Comandos para correr el archivo
 -------------------------------
 
