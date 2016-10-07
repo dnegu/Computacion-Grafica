@@ -1,6 +1,7 @@
 /**
 Nombre: David Rolando Neyra Gutierrez
-
+Comando: g++ poligono.cpp -w -lGL -lGLU -lglut -o poligono
+Puede precionar las teclas F3,F4,F5,F6,F7,F8,F9,F10,F11 y F12
 **/
 
 //#include "stdafx.h" con window
@@ -198,7 +199,7 @@ int main(int argc, char** argv)
 	glutInitDisplayMode(GLUT_DOUBLE | GLUT_RGB);
 	glutInitWindowSize(800, 600);
 	glutInitWindowPosition(100, 100);
-	glutCreateWindow("David Neyra Gutierrez");
+	glutCreateWindow("Poligonos Regular");
 	init();
 	glutDisplayFunc(display);
 	glutReshapeFunc(reshape);
