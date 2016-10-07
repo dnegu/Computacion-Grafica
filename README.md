@@ -1,4 +1,5 @@
 Repositorio para el Trabajo de Computacion grafica
+==================================================
 
 Comandos para correr el archivo
 
